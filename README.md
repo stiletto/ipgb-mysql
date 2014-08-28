@@ -28,3 +28,5 @@ of Russian and Ukrainian CIDRs from ipgeobase.ru to SQL (MySQL).
     1 row in set (0.00 sec)
 
 Region codes are FIPS 10-4 codes for compatibility with MaxMind's GeoIP database. Don't confuse them with Russian vehicle regional codes.
+
+Be this code public domain.
